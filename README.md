@@ -1,5 +1,10 @@
 # formproject
 
+ ```
+After the successful creation of the account.
+ The result (data) can be seen in the console which can be further used in the backend for authentication purposes.
+ ```
+
 ## Project setup
 ```
 npm install
